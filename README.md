@@ -17,25 +17,25 @@ Months since First Donation: this is the number of months since the donor's firs
 # Approach
 Use Python to explore data related to blood donors and we want to predict whether or not a donor will give blood the next time when the blood donation will be organised.<br/>
 
-This process will be done using a Jupyter Notebook.<br/>
-The code should run w/o errors.<br/>
+* This process will be done using a Jupyter Notebook.<br/>
+* The code should run w/o errors.<br/>
 Appropriate use of <br/>
 data structures/types<br/>
 loops/conditional statements <br/>
 Packages <br/>
 functions <br/>
 coding practices (i.e. Docstrings, comments, variable names & general readability) <br/>
-Analysis <br/>
-Pose questions about the data <br/>
-Inspect the structure of the original data (very important) <br/>
-Clean the data <br/>
-Answer questions about the data using descriptive statistics<br/>
-Visualize the data (using plt and seaborn)<br/>
-Perform additional exploratory analysis<br/>
-Consider where data analysis can be applied to other fields.<br/>
-Feature Engineering<br/>
+* Analysis <br/>
+  * Pose questions about the data <br/>
+  * Inspect the structure of the original data (very important) <br/>
+  * Clean the data <br/>
+  * Answer questions about the data using descriptive statistics<br/>
+  * Visualize the data (using plt and seaborn)<br/>
+  * Perform additional exploratory analysis<br/>
+  * Consider where data analysis can be applied to other fields.<br/>
+* Feature Engineering<br/>
 Using domain knowledge of the data to create features that make machine learning algorithms work.<br/>
-Machine Learning<br/>
+* Machine Learning<br/>
 Use of Random Forest, Extra Trees, Gradient Boosting, SVC classifiers.<br/>
 
 # Result
